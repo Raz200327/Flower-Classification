@@ -11,6 +11,10 @@ This web app, powered by Flask and PyTorch, serves as a powerful tool for identi
 - **Loss and Optimization**: Implemented the nn.CrossEntropyLoss() for loss calculation and the torch.optim.Adam() optimizer for model optimization.
 - **Data Visualization**: leveraged Matplotlib for visualizing data and utilized the scikit-learn library for generating accuracy and confusion matrices.
 
+### Model Design
+
+![Model Design](https://github.com/Raz200327/Flower-Classification/assets/115984448/98fa94e1-9362-4b98-ba63-bb1cea24162e)
+
 ### Confusion Matrix
 
 ![Confusion Matrix](https://github.com/Raz200327/Flower-Classification/assets/115984448/0df5f164-69a1-4da3-a92f-bdb333121ea8)
