@@ -6,9 +6,9 @@ This web app, powered by Flask and PyTorch, serves as a powerful tool for identi
 - **Data Transformation**: Employed the torchvision.transforms module for seamless data transformation.
 - **Flower Classifier Class**: Designed a specialized class, FlowerClassifier, inheriting essential functions from nn.Module.
 - **Loss and Optimization**: Implemented the nn.CrossEntropyLoss() for loss calculation and the torch.optim.Adam() optimizer for model optimization.
-- **Data Visualization**: Leveraged Matplotlib for visualizing data and utilized the scikit-learn library for generating accuracy and confusion matrices.
+- **Data Visualization**: leveraged Matplotlib for visualizing data and utilized the scikit-learn library for generating accuracy and confusion matrices.
 
-![Confusion Matrix]<img width="176" alt="image" src="https://github.com/Raz200327/Flower-Classification/assets/115984448/0df5f164-69a1-4da3-a92f-bdb333121ea8">
+![Confusion Matrix](https://github.com/Raz200327/Flower-Classification/assets/115984448/0df5f164-69a1-4da3-a92f-bdb333121ea8)
 
 
 ### Training and Validation Metrics
